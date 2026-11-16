@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MyFirstBackend.Api/MyFirstBackend.Api.csproj" />
+  <Project Path="MyFirstBackend.Models/MyFirstBackend.Models.csproj" />
+  <Project Path="MyFirstBackend.Repositories/MyFirstBackend.Repositories.csproj" />
+  <Project Path="MyFirstBackend.Services/MyFirstBackend.Services.csproj" />
+  <Project Path="MyFirstBackend.ViewModels/MyFirstBackend.ViewModels.csproj" />
+</Solution>
